@@ -1,2 +1,2 @@
-# Performance_testion_for_JPetStore
+# Performance_Testing_for_JPetStore
 Report summary
